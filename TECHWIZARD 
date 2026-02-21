@@ -318,7 +318,7 @@ sourceUrl:
 }
 
 // ========================================
-// GENERAL COMMANDS.
+// GENERAL COMMANDS
 // ========================================
 
 if(command==="ping")
